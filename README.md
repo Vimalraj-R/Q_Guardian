@@ -164,44 +164,6 @@ checker = DocumentIntegrityChecker()
 "
 ```
 
-## ❓ Q&A Preparation
-
-### Technical Questions
-
-**Q: How does quantum computing improve anomaly detection?**
-A: Our 4-qubit variational quantum neural network can process complex behavioral patterns that classical computers struggle with. The quantum superposition allows us to evaluate multiple scenarios simultaneously, leading to 94%+ accuracy in detecting suspicious activities.
-
-**Q: How do you ensure privacy in federated learning?**
-A: We use differential privacy with ε=1.0 and secure aggregation. Raw data never leaves institutions - only encrypted gradients are shared. Each institution trains locally, and we aggregate only the model updates.
-
-**Q: What makes your ZKP authentication special?**
-A: Our zero-knowledge proofs allow users to prove they have valid credentials without revealing the actual biometric data. This provides 96%+ authentication success while maintaining complete anonymity.
-
-**Q: How does blockchain integration work?**
-A: We use quantum-resistant cryptography to create immutable audit trails. Every security event, document scan, and authentication attempt is recorded in a tamper-proof blockchain, ensuring complete transparency and accountability.
-
-### Business Questions
-
-**Q: What's the market opportunity?**
-A: The EdTech security market is $12B+ and growing 15% annually. Universities spend $2M+ annually on security. Our solution reduces costs by 60% while improving security by 40%.
-
-**Q: How do you handle compliance (FERPA, GDPR)?**
-A: Our federated learning approach ensures data never leaves institutions. ZKP authentication provides anonymity. Document integrity checks prevent data leaks. We're FERPA and GDPR compliant by design.
-
-**Q: What's your competitive advantage?**
-A: We're the only solution combining quantum computing, federated learning, and ZKP for education. Competitors use classical ML and centralized data storage, which we've proven to be less secure and private.
-
-### Technical Challenges
-
-**Q: How do you handle quantum noise?**
-A: We use error mitigation techniques and noise-aware training. Our 4-qubit circuit is optimized for current quantum hardware limitations while providing significant advantages over classical approaches.
-
-**Q: What about quantum supremacy concerns?**
-A: Our quantum circuits are designed for current NISQ devices. We use hybrid quantum-classical approaches that provide advantages even with noisy qubits.
-
-**Q: How do you scale to multiple institutions?**
-A: Our federated architecture scales horizontally. Each institution runs independently, and we use efficient aggregation protocols. We've tested with 5 institutions and can scale to 100+.
-
 ## 🏛️ Educational Institution Deployment
 
 ### For Universities
@@ -367,11 +329,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: security@qguardian.edu
-- **Website**: https://qguardian.edu
-- **Documentation**: https://docs.qguardian.edu
-- **Support**: https://support.qguardian.edu
+- **Email**: rv1870713@gmail.com
+- **Phone**: +91 8438435579
 
 ---
+
 
 **QGuardian: Protecting Education with Quantum Security** 🛡️⚛️ 
